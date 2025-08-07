@@ -23,6 +23,8 @@ class CONTENT_TYPE:
     INK = "application/inkml+xml"
     JPEG = "image/jpeg"
     MOV = "video/quicktime"
+    MP3 = "audio/mpeg"
+    WAV = "audio/wav"
     MP4 = "video/mp4"
     MPG = "video/mpeg"
     MS_PHOTO = "image/vnd.ms-photo"

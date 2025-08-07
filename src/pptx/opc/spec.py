@@ -14,6 +14,8 @@ default_content_types = (
     ("jpeg", CT.JPEG),
     ("jpg", CT.JPEG),
     ("mov", CT.MOV),
+    ("mp3", CT.MP3),
+    ("wav", CT.WAV),
     ("mp4", CT.MP4),
     ("mpg", CT.MPG),
     ("png", CT.PNG),

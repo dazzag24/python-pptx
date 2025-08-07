@@ -68,6 +68,8 @@ class Video(object):
             CT.ASF: "asf",
             CT.AVI: "avi",
             CT.MOV: "mov",
+            CT.MP3: "mp3",  # Technically not a video, but it's a workaround as long as we don't have an audio MediaPart class.
+            CT.WAV: "wav",
             CT.MP4: "mp4",
             CT.MPG: "mpg",
             CT.MS_VIDEO: "avi",
